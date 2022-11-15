@@ -24,7 +24,7 @@
 3. Visualising Dynamic Programming problems as some DAG.
 4. Find the minimum length of shortest path to reach a node starting from node $0$ in a DAG (No code! Should be able to do by hand on paper for any DAG in linear time).
 
-## Problems Introduced, not solved.
+## Problems Introduced, not solved
 1. [Maximum Subarray Problem](https://en.wikipedia.org/wiki/Maximum_subarray_problem) - Solution using Kadane's Algorithm. Task is to derive the Kadane algorithm, where $dp[i]$ was defined in the session.
 2. Motivation for recursive approach to Dynamic Programming: In a matrix of size $n\times m$, find the longest increasing path. More details on the problem were covered in the session.
 
