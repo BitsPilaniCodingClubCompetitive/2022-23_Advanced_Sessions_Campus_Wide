@@ -29,8 +29,9 @@
 2. Motivation for recursive approach to Dynamic Programming: In a matrix of size $n\times m$, find the longest increasing path. More details on the problem were covered in the session.
 
 ## Homework
-1. Do some practice on random DAG and fill the dp array on your own.
-2. Should be able to do leetcode easy questions. If not able to do, let me know in next session.
+1. Submit the code for Kadane's Algorithm after solving on board.
+2. Do some practice on random DAG and fill the dp array on your own.
+3. Should be able to do leetcode easy questions. If not able to do, let me know in next session.
 
 ## Remarks
 Many random things were covered in the session so that you have an idea of what we will be covering in future. If you find the information too much, no need to worry as these will be taken again in future with slow and detailed discussion.
