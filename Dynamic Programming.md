@@ -20,7 +20,7 @@
 4. Find the minimum length of shortest path to reach a node starting from node $0$ in a DAG (No code! Should be able to do by hand on paper for any DAG in linear time).
 
 
-## Questions
+## Questions Covered
 ### Submissions on leetcode
 1. [Counting Bits](https://leetcode.com/problems/counting-bits/).
 2. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/).
@@ -35,9 +35,33 @@
 
 ## Plan for next session
 1. Submit the code for Kadane's Algorithm after solving on board.
-2. Cover easy Dynamic Programming questions of leetcode, no submission on spot for these.
+2. Cover easy Dynamic Programming questions of leetcode, ~no submission on spot for these.~ on spot submissions done for some problems.
 3. If step 2 completed, take some rest, do one problem on DAG on paper and then start Longest Increasing Subsequence and submit the code on leetode.
 
 
 ## Remarks
 Many random things were covered in the session so that you have an idea of what we will be covering in future. If you find the information too much, no need to worry as these will be taken again in future with slow and detailed discussion.
+
+
+# Day 2
+
+## Questions Covered
+### Submitted on Leetcode
+1. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+2. [Divisor Game](https://leetcode.com/problems/divisor-game)
+3. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+4. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+
+### Not Submitted on Leetcode
+6. [Jump Game](https://leetcode.com/problems/jump-game/description/)
+7. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+## Topics Covered
+1. Basic game theory for problem: Divisor Game. Optional, no need to cover it.
+2. Kadane's Algorithm Derivation.
+3. An example of 2D dp and the submission on leetcode.
+4. LIS
+
+## Homework
+1. Revise the questions covered.
+2. Leetcode Medium Questions.
