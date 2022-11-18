@@ -65,3 +65,26 @@ Many random things were covered in the session so that you have an idea of what 
 ## Homework
 1. Revise the questions covered.
 2. Leetcode Medium Questions.
+
+
+# Day 3
+## Topics to cover
+1. General Trees (Basics)
+2. Edit Distance
+3. Knapsack (both cases)
+
+## Questions Solved
+1. [Edit Distance](https://leetcode.com/problems/edit-distance/)
+2. [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+3. [Is Same Tree](https://leetcode.com/problems/same-tree/)
+4. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+5. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+6. [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+7. [Path Sum](https://leetcode.com/problems/path-sum/)
+
+## Work to do
+1. Easy questions of binary tree and possibly general trees.
+2. Medium problems of dp and problems related to edit-distance and knapsack.
+
+# References
+1. [Dynamic Programming Book](https://drive.google.com/file/d/1niwm8nsmuZiswxUQZsvPjtEnEHRbRc44/view?usp=sharing)
