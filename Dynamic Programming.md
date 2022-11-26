@@ -86,5 +86,42 @@ Many random things were covered in the session so that you have an idea of what 
 1. Easy questions of binary tree and possibly general trees.
 2. Medium problems of dp and problems related to edit-distance and knapsack.
 
+# Day 4
+## Topics Covered
+1. Chain Matrix Multiplication.
+2. Shortest Path from a node in acyclic graph.
+3. Recursive approach to dp.
+   - *What’s the best naming prefix for a global variable?* `//` 
+
+## Questions Solved
+1. [Atcoder - Educational DP Contest](https://atcoder.jp/contests/dp/tasks)
+   1. [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)
+   2. [Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b)
+   3. [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)
+   4. [Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)
+   5. [Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)
+   6. [LCS](https://atcoder.jp/contests/dp/tasks/dp_f)
+   7. [Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)
+   8. [Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h)
+2. [Dynamic Programming Book](https://drive.google.com/file/d/1niwm8nsmuZiswxUQZsvPjtEnEHRbRc44/view?usp=sharing)
+   1. Question 6.4
+   2. Question 6.6
+3. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+4. [Word Break](https://leetcode.com/problems/word-break)
+   - [Simple Solution](https://leetcode.com/problems/word-break/solutions/2752032/c-dp-0ms-100-faster/)
+   - The time complexity of above solution is $O(n^3)$ instead of $O(n^2)$. Can you tell why?
+   - What if you used `set` instead of `unordered_set` to store dictionary words? What if `vector` is used to store dictionary words?
+
+## Work to do
+1. Solve the questions on leetcode or any other websites as much as you can. Dynamic Programming is almost completed and you should be able to solve questions on your own or reason about the approach after reading the solution without mugging it up.
+2. Submit the codes on atcoder that were discussed in the class.
+3. Reason about how recursive code works and can there be problems using recursive approach? *Hint*: The answer is not `global variables`. Assume stack size of $1$ $mb$.
+4. Read about `queue` of STL - the functions and how to use it. It will be used in BFS of graph theory.
+
+## Plan for next session
+1. Bellman Ford.
+2. Travelling Salesman Problem.
+3. Graph Theory - Basic Nomenclature and iteration techniques.
+
 # References
 1. [Dynamic Programming Book](https://drive.google.com/file/d/1niwm8nsmuZiswxUQZsvPjtEnEHRbRc44/view?usp=sharing)
