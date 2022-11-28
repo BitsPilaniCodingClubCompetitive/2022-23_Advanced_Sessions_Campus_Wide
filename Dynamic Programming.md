@@ -123,5 +123,8 @@ Many random things were covered in the session so that you have an idea of what 
 2. Travelling Salesman Problem.
 3. Graph Theory - Basic Nomenclature and iteration techniques.
 
+# Day 5 (Skipped)
+Read about Bellman Ford and Travelling Salesman Problem from the book.
+
 # References
 1. [Dynamic Programming Book](https://drive.google.com/file/d/1niwm8nsmuZiswxUQZsvPjtEnEHRbRc44/view?usp=sharing)
