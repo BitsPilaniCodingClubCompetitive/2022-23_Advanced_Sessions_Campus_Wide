@@ -15,6 +15,7 @@
 3. Equivalence of matrix questions and Graph BFS.
 4. Number of shortest paths from source to destination.
 5. Multi source BFS.
+6. Solving an expression tree - demonstration with recursion stack and local variables to understand how variables are maintained across recursive function calls.
 
 
 
