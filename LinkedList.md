@@ -6,8 +6,8 @@
    {
      int val;
      LLN* next;
-   };
-```
+   }; 
+   ```
 2. Basic Linked List Operations
    1. Accessing and modifying the `val` and `next`.
    2. Allocating the node in heap.
